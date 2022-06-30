@@ -10,7 +10,7 @@ class Main {
             System.out.print("Enter '+,-,*,/,'c' or 's': ");
             c = (char) System.in.read ();
             if (c == '-' || c =='+' || c == '*' || c == '/') {
-                System.out.print("Number2: ");
+                System.out.print("Number 2: ");
                 b = scan.nextInt();
                 switch (c) {
                     case '+':

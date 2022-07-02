@@ -12,7 +12,7 @@ public class Main {
             int start = matcher.start();
             int end = matcher.end();
             System.out.println(text.substring(start, end));
-            System.out.println(text.substring(start, end));
+
         }
 
     }
